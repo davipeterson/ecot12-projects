@@ -4,3 +4,6 @@
 [submodule "ecot12-lab04"]
 	path = ecot12-lab04
 	url = https://github.com/davipeterson/ecot12-lab04
+[submodule "ecot12-industria"]
+	path = ecot12-industria
+	url = https://github.com/davipeterson/ecot12-industria
