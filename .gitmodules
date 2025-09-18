@@ -7,3 +7,6 @@
 [submodule "ecot12-industria"]
 	path = ecot12-industria
 	url = https://github.com/davipeterson/ecot12-industria
+[submodule "ecot12-lab05"]
+	path = ecot12-lab05
+	url = https://github.com/davipeterson/ecot12-lab05
