@@ -1,0 +1,6 @@
+[submodule "nordic-saga"]
+	path = nordic-saga
+	url = https://github.com/davipeterson/nordic-saga
+[submodule "ecot12-lab04"]
+	path = ecot12-lab04
+	url = https://github.com/davipeterson/ecot12-lab04
